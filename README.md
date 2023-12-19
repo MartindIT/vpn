@@ -51,3 +51,7 @@ This tutorial outlines the differnet uses of a VPN within Azure Virtual Machines
 ![image](https://github.com/MartindIT/vpn/assets/151476834/74815212-1f49-4ce9-a996-029758b5f0e2)
 
 **7.) So if we go back to "whatsmyIpaddress.com" our IP will be different and haved changed locations to Japan and we will now have changed our locations twice.**
+
+![image](https://github.com/MartindIT/vpn/assets/151476834/99cf107e-746d-485a-93fd-9248c3ad33c7)
+**8.) Finally we can have a little fun around japan servers and go and look at different websites such as Netflix and see how the UI looks and from the looks of things how a VPN can alter computers local IP Address and give users the ability to switch servers/ IP Addresses.**
+
