@@ -34,7 +34,7 @@ This tutorial outlines the differnet uses of a VPN within Azure Virtual Machines
 
 ![image](https://github.com/MartindIT/vpn/assets/151476834/6596fc83-b0ce-49cc-a33e-ce8087a0d086)
 
-**4.) When you log into the VM go to "whatsmyIPaddress.com" and check IP Address and now it says we are in Hong Kong.
+**4.) When you log into the VM go to "whatsmyIPaddress.com" and check IP Address and now it says we are in Hong Kong.**
 
 ![image](https://github.com/MartindIT/vpn/assets/151476834/0f736c0b-8479-4797-93fc-6a71c0f6f202)
 ![image](https://github.com/MartindIT/vpn/assets/151476834/fb744e18-70ef-4272-b287-7c3dc787d269)
